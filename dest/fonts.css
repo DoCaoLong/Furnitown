@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Er';
+    src: url('../fonts/ElleBaskerville.woff') format('woff2'), url('../fonts/ElleBaskerville.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ebi';
+    src: url('../fonts/ElleBaskerville-BoldItalic.woff') format('woff2'), url('../fonts/ElleBaskerville-BoldItalic.woff2') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Eb';
+    src: url('../fonts/ElleBaskerville-Bold.woff') format('woff2'), url('../fonts/ElleBaskerville-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ei';
+    src: url('../fonts/ElleBaskerville-Italic.woff2') format('woff2'), url('../fonts/ElleBaskerville-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ESb';
+    src: url('../fonts/ElleBaskerville-SemiBold.woff2') format('woff2'), url('../fonts/ElleBaskerville-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ESi';
+    src: url('../fonts/ElleBaskerville-SemiBoldItalic.woff2') format('woff2'), url('../fonts/ElleBaskerville-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pnr';
+    src: url('../fonts/ProximaNova-Regular.woff2') format('woff2'), url('../fonts/ProximaNova-Regular.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Pnb';
+    src: url('../fonts/ProximaNova-Bold.woff2') format('woff2'), url('../fonts/ProximaNova-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'AH';
+    src: url('../fonts/Avenir-Heavy.woff2') format('woff2'), url('../fonts/Avenir-Heavy.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
